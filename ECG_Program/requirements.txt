@@ -1,0 +1,16 @@
+antropy
+biosppy
+humanfriendly
+numpy
+pandas
+tensorflow
+wfdb
+xgboost
+catboost
+matplotlib
+seaborn
+torch
+tqdm
+optuna
+scikit-learn
+keras
