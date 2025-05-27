@@ -14,3 +14,5 @@ tqdm
 optuna
 scikit-learn
 keras
+peakutils
+joblib
