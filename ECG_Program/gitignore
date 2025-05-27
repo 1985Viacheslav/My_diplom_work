@@ -1,0 +1,16 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc~
+*.cache
+*.tmp
+*.temp
+
+# Виртуальное окружение
+venv/
+.env
+.env.local
+.env.development
+.env.test
