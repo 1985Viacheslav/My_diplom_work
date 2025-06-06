@@ -2,33 +2,33 @@ Model: "ECGPersonIdentifier"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
- dense_100 (Dense)           (None, 353)               5295      
+ dense_530 (Dense)           (None, 233)               3495      
                                                                  
- batch_normalization_60 (Ba  (None, 353)               1412      
- tchNormalization)                                               
+ batch_normalization_318 (B  (None, 233)               932       
+ atchNormalization)                                              
                                                                  
- dropout_60 (Dropout)        (None, 353)               0         
+ dropout_318 (Dropout)       (None, 233)               0         
                                                                  
- dense_101 (Dense)           (None, 146)               51684     
+ dense_531 (Dense)           (None, 103)               24102     
                                                                  
- batch_normalization_61 (Ba  (None, 146)               584       
- tchNormalization)                                               
+ batch_normalization_319 (B  (None, 103)               412       
+ atchNormalization)                                              
                                                                  
- dropout_61 (Dropout)        (None, 146)               0         
+ dropout_319 (Dropout)       (None, 103)               0         
                                                                  
- dense_102 (Dense)           (None, 219)               32193     
+ dense_532 (Dense)           (None, 113)               11752     
                                                                  
- batch_normalization_62 (Ba  (None, 219)               876       
- tchNormalization)                                               
+ batch_normalization_320 (B  (None, 113)               452       
+ atchNormalization)                                              
                                                                  
- dropout_62 (Dropout)        (None, 219)               0         
+ dropout_320 (Dropout)       (None, 113)               0         
                                                                  
- dense_103 (Dense)           (None, 45)                9900      
+ dense_533 (Dense)           (None, 104)               11856     
                                                                  
- dense_104 (Dense)           (None, 90)                4140      
+ dense_534 (Dense)           (None, 90)                9450      
                                                                  
 =================================================================
-Total params: 106084 (414.39 KB)
-Trainable params: 104648 (408.78 KB)
-Non-trainable params: 1436 (5.61 KB)
+Total params: 62451 (243.95 KB)
+Trainable params: 61553 (240.44 KB)
+Non-trainable params: 898 (3.51 KB)
 _________________________________________________________________
