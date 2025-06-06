@@ -1,0 +1,12 @@
+scikit-learn MLPClassifier Model Summary
+============================================================
+Layer (type)         Input Shape     Output Shape    Param #   
+------------------------------------------------------------
+dense_1 (Dense)   14              221             3315       (act=relu)
+dense_2 (Dense)   221             138             30636      (act=relu)
+dense_3 (Dense)   138             84              11676      (act=relu)
+dense_4 (Dense)   84              34              2890       (act=relu)
+dense_5 (Dense)   34              90              3150       (act=softmax)
+------------------------------------------------------------
+Total params: 51667
+============================================================

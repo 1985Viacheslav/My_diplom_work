@@ -16,3 +16,5 @@ scikit-learn
 keras
 peakutils
 joblib
+torchsummary
+torchinfo
